@@ -1,0 +1,193 @@
+.kocka-crvena {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.krug-zeleni {
+  width: 100px;
+  height: 100px;
+  border-radius: 70px;
+  background-color: green;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.naslov-kutije {
+  font-family: arial;
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
+
+.kutija {
+  width: 250px;
+  height: 90px;
+  padding-left: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  margin-bottom: 40px;
+}
+
+.kutija2 {
+  background-color: rgb(57, 57, 57);
+  color: white;
+  width: 350px;
+  height: 120px;
+  padding-left: 20px;
+  display: inline-block;
+  margin-bottom: 50px;
+  display: block;
+}
+
+
+p {
+  font-family: arial;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.naslov2 {
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 12px;
+  padding-top: 20px;
+}
+
+.naslov3 {
+  color: rgb(150, 150, 150);
+}
+
+
+
+.profil1 {
+  width: 200px;
+  height: 310px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5 );
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.slika1 {
+  width: 200px;
+}
+
+.ime {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-top: 6px;
+}
+
+.friends {
+  font-size: 16px;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-bottom: 14px;
+  color: gray;
+}
+
+.dodaj {
+  margin-left: 8px;
+  width: 100px;
+  height: 30px;
+  border-style: none;
+  background-color: rgb(29, 99, 238);
+  color: white;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+
+
+
+.profil2 {
+  width: 200px;
+  height: 310px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5 );
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 30px;
+  vertical-align: top;
+  margin-left: 15px;
+}
+
+.slika2 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.ime2 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-top: 6px;
+}
+
+.friends2 {
+  font-size: 16px;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-bottom: 14px;
+  color: gray;
+}
+
+.dodaj2 {
+  margin-left: 8px;
+  width: 100px;
+  height: 30px;
+  border-style: none;
+  background-color: rgb(29, 99, 238);
+  color: white;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+
+
+.profil3 {
+  width: 200px;
+  height: 310px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5 );
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 30px;
+  vertical-align: top;
+  margin-left: 15px;
+}
+
+.slika3 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.ime3 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-top: 6px;
+}
+
+.friends3 {
+  font-size: 16px;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-bottom: 14px;
+  color: gray;
+}
+
+.dodaj3 {
+  margin-left: 8px;
+  width: 100px;
+  height: 30px;
+  border-style: none;
+  background-color: rgb(29, 99, 238);
+  color: white;
+  font-size: 14px;
+  border-radius: 4px;
+}

@@ -1,0 +1,195 @@
+
+
+    p{ font-family: Roboto;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .video-title {
+        
+        font-weight: bold;
+        font-size: 18px;
+        width: 300;
+        line-height: 24px;
+        margin-bottom: 2px;
+        line-height: 24px;
+        margin-bottom: 2px;
+    }
+    .broj-pregleda {
+        
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 20px;
+        color: #606060;
+    }
+    
+    .ime-autora {
+        
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 20px;
+        color: #606060;  
+    }
+    
+    .paragraf-teksta {
+        
+        font-size: 14px;
+        color: #606060;
+        line-height: 20px;
+        margin-bottom: 100px;
+        width: 270px;
+    }
+    
+    .crveni-okvir {
+        background-color: #e34140;
+        padding: 16px;
+        color: white;
+        font-size: 14px;
+        text-align: center;
+        margin-left: 8px;
+        margin-right: 8px;
+        margin-bottom: 40px;
+    }
+    
+    .shop-now:hover {
+        text-decoration: underline;
+    }
+    
+    .shop-now {
+        cursor: pointer;
+    }
+
+
+
+    
+
+    .pet-a {
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.pet-b1 {
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;  
+}
+
+.pet-b2 {
+    font-family: arial;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 40px;
+    color: #e34140;
+}
+
+.pet-c1 {
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.pet-c2 {
+    font-family: Verdana;
+    font-size: 19px;
+    margin-bottom: 20px;
+    color: #606060;
+}
+
+.pet-c3 {
+    font-family: Verdana;
+    font-size: 19px;
+    margin-bottom: 20px;
+    width: 350px;
+}
+
+.tipka-5c {
+    background-color: green;
+    color: white;
+    font-family: Verdana;
+    font-size: 16px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+.tipka-5c:hover {
+    opacity: 0.7;
+}
+
+.tipka-5c:active {
+opacity: 0.5;
+}
+
+.pet-d1 {
+    font-family: arial;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.pet-d2 {
+    font-family: arial;
+    font-size: 17px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.pet-d3 {
+    font-family: arial;
+    font-size: 17px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: blue;
+    margin-bottom: 40px;
+}
+
+.pet-d3:hover {
+    text-decoration: underline;
+}
+
+.prvi-5g {
+    font-family: arial;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.mail-5g1 {
+    font-weight: bold;
+}
+
+.mail-5g2 {
+    color: gray
+}
+
+.tekst-5g {
+    font-family: arial;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.kraj-5g {
+    font-family: arial;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.mail-5g3 {
+    color: blue;
+    cursor: pointer;
+}
+
+.mail-5g3:hover {
+    opacity: 0.7;
+}
+
+.mail-5g3:active {
+    opacity: 0.5;
+}

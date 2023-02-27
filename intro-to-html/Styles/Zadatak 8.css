@@ -1,0 +1,119 @@
+.kucica1,.kucica2 {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.tekst1 {
+    width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+
+.tipka1 {
+    display: inline;
+    vertical-align: middle;
+}
+
+.tipka2 {
+    display: inline;
+    vertical-align: middle;
+}
+
+
+.logo {
+    width: 200px;
+    margin-left: 90px;
+}
+
+.kucica3 {
+    font-size: 12px;
+    width: 350px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    border-style: none;
+    border-width: 1px;
+    border-radius: 40px;
+    border-color: rgb(200, 200, 200);
+}
+
+.Name1, .Name2 {
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 12px;
+    border-color: gray;
+
+}
+
+.Mail {
+    font-size: 15px;
+    width: 220px;
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 12px;
+    border-color: gray;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.tipka3 {
+    width: 235px;
+    height: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(78, 130, 241);
+    border-style: none;
+    border-radius: 7px;
+}
+
+.uber1 {
+    font-size: 14px;
+    padding-left: 17px;
+    width: 300px;
+    height: 30px;
+    border-style: none;
+    background-color: rgb(235, 231, 231);
+    display: block;
+    margin-bottom: 8px;
+}
+
+.uber2 {
+    font-size: 14px;
+    padding-left: 17px;
+    width: 300px;
+    height: 30px;
+    border-style: none;
+    background-color: rgb(235, 231, 231);
+    display: block;
+    margin-bottom: 30px;
+}
+
+.naruci {
+    width: 120px;
+    height: 40px;
+    border-style: none;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.zakazi {
+    width: 140px;
+    height: 40px;
+    border-style: none;
+    background-color:rgb(235, 231, 231);
+    color: black
+    display: inline-block;
+    margin-right: 15px; 
+}

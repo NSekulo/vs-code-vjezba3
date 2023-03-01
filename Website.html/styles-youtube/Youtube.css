@@ -1,8 +1,13 @@
-
+p {
+    font-family: roboto, Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
 .thumbnail {
     width: 300px;
     display: block;
+    margin-bottom: 15px;
 }
 
 .search-bar {
@@ -14,4 +19,58 @@
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
+}
+
+.thumbnail-row {
+    margin-bottom: 12px;
+}
+
+.channel-picture {
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+
+.video-info {
+    display: inline-block;
+    width: 200px;
+}
+
+.profile-picture {
+    width: 38px;
+    border-radius: 60px;
+}
+
+.tekst-slike1 {
+    font-weight: 500;
+    font-size: 15px;
+    font-family: roboto;
+    line-height: 22px;
+    margin-bottom: 12px;
+}
+
+.tekst-slike2,
+.tekst-slike3 {
+    font-family: roboto, Arial; 
+    font-size: 12px;
+    color: gray;
+}
+
+.tekst-slike2 {
+    margin-bottom: 5px;
+}
+
+.kucica5 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.profilna2 {
+    width: 40px;
+    border-radius: 50px;
+}
+
+.kucica6 {
+    display: inline-block;
+    margin-left: 12px;
 }

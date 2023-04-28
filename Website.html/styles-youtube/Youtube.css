@@ -5,35 +5,20 @@ p {
 }
 
 .thumbnail {
-    width: 300px;
-    display: block;
-    margin-bottom: 15px;
+    width: 100%;
 }
 
 .search-bar {
    display: block;
 }
 
-.video-div1 {
-    width: 300px;
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 15px;
-}
-
 .thumbnail-row {
     margin-bottom: 12px;
 }
 
-.channel-picture {
-    display: inline-block;
-    width: 50px;
-    vertical-align: top;
-}
-
-.video-info {
-    display: inline-block;
-    width: 200px;
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
 }
 
 .profile-picture {
@@ -73,4 +58,11 @@ p {
 .kucica6 {
     display: inline-block;
     margin-left: 12px;
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 40px;
 }
